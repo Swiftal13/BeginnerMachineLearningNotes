@@ -5,4 +5,6 @@ A machine learning paradigm for problems that have its inputs and outputs, to fi
 inputs are called <b>feature vectors</b> in a ML model <br>
 Outputs are called <b>Labels</b><br><br>
 
-inputs and outputs are used to develop a predictive model
+inputs and outputs are used to develop a predictive model<br>
+
+Training data is the sample data given to build models
