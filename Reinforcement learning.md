@@ -1,4 +1,4 @@
-## Rienforcement Learning
+## Reinforcement Learning
 
 Another machine learning paradigm, concerning how intelligent agents can become through taking actions within an environment in order to maximise the idea of cumulative reward<br>
 
