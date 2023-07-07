@@ -16,7 +16,7 @@ This can be referred as <b>functional approximation</b>, to create a function th
 
 ## Induction vs Deduction
 
-Induction refers to going from a specific examples to a more broad, genreal theory<br>
+Induction refers to going from a specific examples to a more broad, general theory<br>
 - In supervised learning this is applied by using training samples and new unseen examples, to learn a function
 - the goal is to generalize the training data to predict future
 
