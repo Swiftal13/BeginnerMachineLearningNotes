@@ -9,7 +9,7 @@ Classification, taking inputs and mapping it to a discrete label
 
 **Instances** are inputted data values, discrete
 **Concept** is the function that maps the inputs to outputs
-**Target**
+**Target** is the answer we are trying to acheive 
 
 
 
