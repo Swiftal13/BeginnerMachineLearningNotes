@@ -11,7 +11,7 @@ Classification, taking inputs and mapping it to a discrete label
 **Concept** is the function that maps the inputs to outputs<br>
 **Target** is the answer we are trying to acheive<br>
 **Hypothesis class** set of all concepts (classification functions) that you are considering<br>
-
+the set of all possible decision trees
 
 
 
