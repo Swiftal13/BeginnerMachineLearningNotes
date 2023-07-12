@@ -16,8 +16,5 @@ the set of all possible decision trees<br>
 **Candidate** is the hypotehtihs or concept that you think is the target concept
 
 
-
-
-
-Regression, continuous value functions
-
+## Decision tree
+takae instances about a restaurant and product a binary output whether to go or not
