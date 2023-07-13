@@ -27,3 +27,4 @@ A decision tree is a tree like strucutre where each node represents an attribute
 circles are decision nodes<br>
 the lines are edges, the specific values, Am I hungry? true or false<br>
 Square boxes are actual outputs<br>
+This is representation
