@@ -28,4 +28,4 @@ circles are decision nodes<br>
 the lines are edges, the specific values, Am I hungry? true or false<br>
 Square boxes are actual outputs<br>
 This is representation
-once you go down the decision tree, considering the decision nodes and values, you result in a specific class
+once you go down the decision tree using a specific instance (inputed values), considering the decision nodes and values, you can determine their class
