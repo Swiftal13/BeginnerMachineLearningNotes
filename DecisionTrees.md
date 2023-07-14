@@ -30,3 +30,6 @@ the lines are edges, the specific values, Am I hungry? true or false<br>
 Square boxes are actual outputs<br>
 This is representation
 once you go down the decision tree using a specific instance (inputed values), considering the decision nodes and values, you can determine their class
+
+# Building a decision tree
+pick the best attribute, which splits it in half
