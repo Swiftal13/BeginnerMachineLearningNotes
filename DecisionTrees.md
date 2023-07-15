@@ -33,3 +33,5 @@ once you go down the decision tree using a specific instance (inputed values), c
 
 # Building a decision tree
 pick the best attribute, which splits it in half
+
+In decision trees, the "best attribute" refers to the feature or attribute that is most informative in splitting the data into different classes or categories. It is the attribute that provides the most significant reduction in uncertainty or impurity when used as a decision criterion.
