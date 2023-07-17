@@ -18,7 +18,7 @@ the set of all possible decision trees<br>
 
 
 ## Decision tree
-takae instances about a restaurant and product a binary output whether to go or not
+take in instances, produce binary outputs to decide
 
 A decision tree is a tree like strucutre where each node represents an attribute or a question, and the eadges represent the possible values or answers<br>
 
