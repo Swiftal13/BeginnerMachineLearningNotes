@@ -13,7 +13,7 @@ A decision tree is a tree like strucutre where each node represents an attribute
 
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/38065834-e06c-46a2-9264-d8f520e27357)
 
- This is how you represent the decisions you take towards a specific output
+ This is how you represent the decisions you take towards a specific output<br>
 circles are decision nodes<br>
 the lines are edges, the specific values, Am I hungry? true or false<br>
 Square boxes are actual outputs<br>
