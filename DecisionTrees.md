@@ -42,7 +42,7 @@ In decision trees, the "best attribute" refers to the feature or attribute that 
 <br>Decision trees can represent boolean functions. These take in a **binary input and produce a binary output**<br>
 For example A **and** B. Both A and B must be true, for the expression to be True
 
-A **Or** <br>
+A **Or** B<br>
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/ede4be37-0003-4922-92cf-ca2a3912b637)
 
 A **XOR** B
