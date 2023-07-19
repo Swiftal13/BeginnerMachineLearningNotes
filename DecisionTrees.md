@@ -41,4 +41,5 @@ XOR = exclusive OR <br>
 Alot of times in real life when you say Or you mean XOR, only one, in truth gates OR includes both to be true aswell
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/bc10e0a7-17a0-4c44-bf6b-9d9b33806d9c)
 
-
+However, these are only when two attrbiutes are passed in, what if it was more than 2?<br>
+Now we bring in the symbol **n**
