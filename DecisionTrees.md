@@ -43,3 +43,4 @@ Alot of times in real life when you say Or you mean XOR, only one, in truth gate
 
 However, these are only when two attrbiutes are passed in, what if it was more than 2?<br>
 Now we bring in the symbol **n**
+We can have N Or function: any
