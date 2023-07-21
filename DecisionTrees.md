@@ -4,7 +4,7 @@ A decision tree is a type of supervised machine learning use to categorize and m
 
 ## Classification and Regression
 Two fundamental practices in supervised learning
-
+- **Classification** is a supervised machine learning method where the model tries to predict the correct label of a given input data.
 
 ## Decision tree
 take in instances, produce binary outputs to decide
