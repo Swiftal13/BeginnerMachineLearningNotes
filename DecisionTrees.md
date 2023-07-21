@@ -33,7 +33,7 @@ In decision trees, the "best attribute" refers to the feature or attribute that 
 These take in a **binary input and produce a binary output**<br>
 For example A **and** B. Both A and B must be true, for the expression to be True
 
-## A Or B<br>
+## A OR B<br>
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/ede4be37-0003-4922-92cf-ca2a3912b637)
 
 ## A XOR B <br>
@@ -42,5 +42,10 @@ Alot of times in real life when you say Or you mean XOR, only one, in truth gate
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/bc10e0a7-17a0-4c44-bf6b-9d9b33806d9c)
 
 However, these are only when two attrbiutes are passed in, what if it was more than 2?<br>
-Now we bring in the symbol **n**
-We can have N Or function: any
+Now we bring in the symbol **n**<br>
+
+## N-OR function: any
+This is the theoretical application of OR boolean function to N attributes
+![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/9b03e277-4264-49ff-b175-a64d6017bc5a)
+
+and this can apply to XOR aswell, n-XOR
