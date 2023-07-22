@@ -51,4 +51,5 @@ What happens here we check each attribute, if false, it can continue on the next
 
 **This can apply to XOR aswell, n-XOR**<br>
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/80a261c0-3d9b-43bb-a9cb-10719b7df603)
-
+XOR is when only one is true, so if its False, it checks next one, if its False again, it checks next one and so on. 
+Only when its True and False or versa it will produce a positive True value. True True will not work as its XOR not OR
