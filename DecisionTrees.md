@@ -48,4 +48,4 @@ Now we bring in the symbol **n**<br>
 This is the theoretical application of OR boolean function to N attributes<br>
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/9b03e277-4264-49ff-b175-a64d6017bc5a)<br><br>
 
-and this can apply to XOR aswell, n-XOR
+**This can apply to XOR aswell, n-XOR**
