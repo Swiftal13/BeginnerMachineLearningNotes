@@ -50,3 +50,5 @@ This is the theoretical application of OR boolean function to N attributes<br>
 What happens here we check each attribute, if false, it can continue on the next one, as only one needs to be true for the boolean output of OR to be True, for all n attributes
 
 **This can apply to XOR aswell, n-XOR**
+![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/80a261c0-3d9b-43bb-a9cb-10719b7df603)
+
