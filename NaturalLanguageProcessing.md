@@ -4,3 +4,4 @@ giving computers the ability to understand text and spoken words in much the sam
 ## Sentiment analysis
 To understand the emotional intent of the text.
 **Positive, Negative, Neutral**
+A sentiment classification model will output the probability of each quality
