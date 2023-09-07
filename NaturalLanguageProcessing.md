@@ -6,3 +6,7 @@ To understand the emotional intent of the text.<br>
 **Positive, Negative, Neutral**<br>
 A sentiment classification model will output the probability of each quality<br>
  entiment analysis is used to classify customer reviews
+
+
+Grammatical error correction
+Autocomplete 
