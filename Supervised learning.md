@@ -7,7 +7,7 @@ Outputs are called <b>Labels</b><br><br>
 
 inputs and outputs are used to develop a predictive model<br>
 
-Training data is the sample data given to build models
+**Training data** is the sample data given to build models
 
 
 This can be referred as <b>functional approximation</b>, to create a function that generalizes beyong the outputs you have seen<br>
