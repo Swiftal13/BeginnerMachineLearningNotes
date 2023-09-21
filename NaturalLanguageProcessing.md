@@ -37,4 +37,19 @@ splits text into individual words and word fragments. The result generally consi
 
 We use an application programming interface API to do this in python
 
+```py
+import tensorflow as tf 
+from tensorflow import keras
+from keras.preprocessing.text import Tokenizer
+
+sentences = [
+    "I love my dog"
+    "I love my cat"
+]
+
+tokenizer = Tokenizer(num_words = 100)
+tokenizer.fit_on_texts(sentences)
+word_index = tokenizer.word_index
+print(word_index)
+```
 
