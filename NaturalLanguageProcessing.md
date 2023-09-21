@@ -35,4 +35,6 @@ splits text into individual words and word fragments. The result generally consi
 
   similarity of action, different noun
 
+We use an application program interface API to do this in python
+
 
