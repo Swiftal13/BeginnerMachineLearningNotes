@@ -52,4 +52,5 @@ tokenizer.fit_on_texts(sentences)
 word_index = tokenizer.word_index
 print(word_index)
 ```
+output: {'love': 1, 'my': 2, 'i': 3, 'dogi': 4, 'cat': 5}
 
