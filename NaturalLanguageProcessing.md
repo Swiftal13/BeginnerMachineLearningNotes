@@ -19,16 +19,19 @@ Sentence segmentation breaks a large piece of text into linguistically meaningfu
 
 Stop word removal aims to remove the most commonly occurring words that don’t add much information to the text. For example, “the,” “a,” “an,” and so on.<br><br>
 
-**Tokenization** splits text into individual words and word fragments. The result generally consists of a word index and tokenized text in which words may be represented as numerical tokens for use in various deep learning methods. A method that instructs language models to ignore unimportant tokens can improve efficiency. 
 
-First principle:
+
+## Tokenization
+splits text into individual words and word fragments. The result generally consists of a word index and tokenized text in which words may be represented as numerical tokens for use in various deep learning methods. A method that instructs language models to ignore unimportant tokens can improve efficiency. 
+
+ **First principle:**
 - words can be encoded using ASCII of its individual letters, but two words can have the same values. It is hard to understand the **sentiment** of a word
 - So we "tokenize" each seperate word in the phrase instead. Encoding each word. For example I = 1, love = 2, ...
 
-  I love my dog
-  1 2 3 4
-  I love my cat
-  1 2 3 5
+  I love my dog<br>
+  1 2 3 4<br>
+  I love my cat<br>
+  1 2 3 5<br>
 
   similarity of action, different noun
 
