@@ -54,4 +54,5 @@ print(word_index)
 ```
 output: {'love': 1, 'my': 2, 'i': 3, 'dogi': 4, 'cat': 5}
 
-we use keras which is an inbuilt module in tensorflow
+we use keras which is an inbuilt module in tensorflow<br>
+Part-of-Speech Tagging: Identifying the grammatical parts of a sentence (e.g., nouns, verbs, adjectives).
