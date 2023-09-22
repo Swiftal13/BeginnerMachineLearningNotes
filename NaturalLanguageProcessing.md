@@ -22,7 +22,7 @@ Stop word removal aims to remove the most commonly occurring words that don’t 
 
 
 ## Tokenization
-splits text into individual words and word fragments. The result generally consists of a word index and tokenized text in which words may be represented as numerical tokens for use in various deep learning methods. A method that instructs language models to ignore unimportant tokens can improve efficiency. 
+splits text into **individual words and word fragments.** The result generally consists of a word index and tokenized text in which words may be represented as numerical tokens for use in various deep learning methods. A method that instructs language models to ignore unimportant tokens can improve efficiency. 
 
  **First principle:**
 - words can be encoded using ASCII of its individual letters, but two words can have the same values. It is hard to understand the **sentiment** of a word
