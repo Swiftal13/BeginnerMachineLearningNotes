@@ -65,4 +65,4 @@ we use keras which is an inbuilt module in tensorflow<br>
 ```py 
 sequences = tokenizer.texts_to_sequences(sentences)
 ```
-this code creates a sequence of tokens that make each sentence
+this code creates a **sequence of tokens** that make each sentence
