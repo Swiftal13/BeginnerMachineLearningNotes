@@ -8,3 +8,5 @@ Machine learning uses data to build a decision model
 parameters vs hyperparameters?
 
 Machine learning utilises exposure to data to improve its decision making
+Insufficient input data restrcits the model's ability to deconstruct underlying patterns in data and limits its capacity tro respond to poteential variance and random phenomena found in the live data.
+good self learning model needs high exposure to input data
