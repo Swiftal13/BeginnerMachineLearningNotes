@@ -30,7 +30,7 @@ splits text into **individual words and word fragments.** The result generally c
 
  **First principle:**
 - words can be encoded using ASCII of its individual letters, but two words can have the same values. It is hard to understand the **sentiment** of a word
-- So we "tokenize" each seperate word in the phrase instead. Encoding each word. For example I = 1, love = 2, ...
+- So we **"tokenize"** each seperate word in the phrase instead. Encoding each word. For example I = 1, love = 2, ...
 
   I love my dog<br>
   1 2 3 4<br>
