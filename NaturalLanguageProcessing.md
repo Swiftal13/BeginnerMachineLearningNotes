@@ -68,7 +68,7 @@ sequences = tokenizer.texts_to_sequences(sentences)
 this code creates a **sequence of tokens** that make each sentence
 
 with words that are not within the word index, eg **unrecognised**, it will just show the sequence of the words it has an index for
-
+OOV is when testing the model. If a word was not in the training data, it is not recognised, henced labelled OOV
 we can handle unrecognised words by passing a property called the oov_token = "<OOV>"<br>
 In the word keys, it will assign a number to an OOV, and then all unrecognised words will have number 1 for its key
 This will maintain the sequence length without removing unknown words
