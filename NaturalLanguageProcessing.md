@@ -74,3 +74,4 @@ In the word keys, it will assign a number to an OOV, and then all unrecognised w
 This will maintain the sequence length without removing unknown words
 
 **Ragged Tensor**
+### Padding
