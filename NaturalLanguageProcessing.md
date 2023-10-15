@@ -68,3 +68,6 @@ sequences = tokenizer.texts_to_sequences(sentences)
 this code creates a **sequence of tokens** that make each sentence
 
 with words that are not within the word index, eg **unrecognised**, it will just show the sequence of the words it has an index for
+
+we can handle unrecognised words by passing a property called the oov_token = "<OOV>"
+In the word keys, it will assign a number to an OOV, and then all unrecognised words will have number 1 for its key
