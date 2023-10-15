@@ -72,3 +72,5 @@ with words that are not within the word index, eg **unrecognised**, it will just
 we can handle unrecognised words by passing a property called the oov_token = "<OOV>"<br>
 In the word keys, it will assign a number to an OOV, and then all unrecognised words will have number 1 for its key
 This will maintain the sequence length without removing unknown words
+
+**Ragged Tensor**
