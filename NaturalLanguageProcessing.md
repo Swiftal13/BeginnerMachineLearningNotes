@@ -67,4 +67,4 @@ sequences = tokenizer.texts_to_sequences(sentences)
 ```
 this code creates a **sequence of tokens** that make each sentence
 
-yo
+with words that are not within the word index, eg **unrecognised**, it will just show the sequence of the words it has an index for
