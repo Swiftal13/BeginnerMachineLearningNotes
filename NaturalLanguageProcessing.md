@@ -80,3 +80,10 @@ This will maintain the sequence length without removing unknown words
 **1 = OOV**
 Why padding is used?
 
+Your data comes in many shapes; your tensors should too. Ragged tensors are the TensorFlow equivalent of nested variable-length lists. They make it easy to store and process data with non-uniform shapes, including:
+
+Variable-length features, such as the set of actors in a movie.
+Batches of variable-length sequential inputs, such as sentences or video clips.
+Hierarchical inputs, such as text documents that are subdivided into sections, paragraphs, sentences, and words.
+Individual fields in structured inputs, such as protocol buffers.
+
