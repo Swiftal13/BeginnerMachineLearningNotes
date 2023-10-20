@@ -75,7 +75,7 @@ This will maintain the sequence length without removing unknown words
 
 **Ragged Tensor**
 ### Padding
-0 is for padding. It is used in order for the sentence lengths to be the same when processing, shorter sentences have 0s filled in so all sentences are the same size as the longest sentence<br>
+0 is for padding. It is used in order for the **sentence lengths to be the same when processing**, shorter sentences have 0s filled in so all sentences are the same size as the longest sentence<br>
 **0 = padding**
 **1 = OOV**
 Why padding is used?
