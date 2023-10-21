@@ -87,3 +87,4 @@ Batches of variable-length sequential inputs, such as sentences or video clips.
 Hierarchical inputs, such as text documents that are subdivided into sections, paragraphs, sentences, and words.
 Individual fields in structured inputs, such as protocol buffers.
 
+preprocessing is all done
