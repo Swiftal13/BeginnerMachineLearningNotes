@@ -11,3 +11,5 @@ they make their own data labels
 Goal is to find patterns, structures or relationships within the data itself
 
 a method used is called clustering 
+actually it does predict ouputs, but it has no target
+uses machine learning algorithms to analyze and cluster unlabeled datasets
