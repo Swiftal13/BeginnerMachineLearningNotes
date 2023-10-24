@@ -13,3 +13,5 @@ Goal is to find patterns, structures or relationships within the data itself
 a method used is called clustering 
 actually it does predict ouputs, but it has no target
 uses machine learning algorithms to analyze and cluster unlabeled datasets
+
+Supervised machine learning relies on labelled input and output training data, whereas unsupervised learning processes unlabelled or raw data.
