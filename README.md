@@ -5,3 +5,4 @@ this is self learning
 sources: Online course, machine learning beginner book
 
 Machine learning is built on principals of mathetmatics such as variable calculus, linear algebra, matrixes, probability and statistics
+data sploits into training data and test data
