@@ -12,3 +12,5 @@ Insufficient input data **restrcits the model's ability to deconstruct underlyin
 good self learning model needs high exposure to input data, as it deepnds understanding of understanding to deconstruct underlying patterns
 
 when feeding a model with training data, it can be regressive aswell. Giving irrelevant, biased data can be counter productive, and make a model less accurate
+
+data optimisation and preparition to use on a model
