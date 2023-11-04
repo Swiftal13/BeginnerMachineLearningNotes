@@ -17,3 +17,4 @@ data optimisation and preparition to use on a model
 column called vector. multiple vectors is matrix
 
 the advanced vs basic toolbox
+tensorflow, keras, scitlearn
