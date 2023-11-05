@@ -99,3 +99,4 @@ the uses of axis for good and bad. Each different one is plotted at a certain co
 ![image](https://github.com/Swiftal13/Machine-Learning/assets/76588047/b553a2d1-ebfc-44c1-bab7-76f5489ffb3d)
 <br>this is how sentiment analysis works
 
+im sorry to myself for disrespecting myself
