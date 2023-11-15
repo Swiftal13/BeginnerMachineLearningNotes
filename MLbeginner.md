@@ -19,3 +19,4 @@ column called vector. multiple vectors is matrix
 the advanced vs basic toolbox
 tensorflow, keras, scitlearn
 lots of training data
+linear pooaa
