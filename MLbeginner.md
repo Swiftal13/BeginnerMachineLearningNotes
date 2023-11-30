@@ -13,8 +13,8 @@ good self learning model needs high exposure to input data, as it deepnds unders
 
 when feeding a model with training data, it can be regressive aswell. Giving irrelevant, biased data can be counter productive, and make a model less accurate
 
-data optimisation and preparition to use on a model
-column called vector. multiple vectors is matrix
+- data optimisation and preparition to use on a model
+- column called vector. multiple vectors is matrix
 
 the advanced vs basic toolbox
 tensorflow, keras, scitlearn
