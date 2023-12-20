@@ -11,7 +11,7 @@ Machine learning utilises exposure to data to improve its decision making
 Insufficient input data **restrcits the model's ability to deconstruct underlying patterns in data and limits its capacity tro respond to poteential variance and random phenomena** found in the live data.
 good self learning model needs high exposure to input data, as it deepnds understanding of understanding to deconstruct underlying patterns
 
-when feeding a model with training data, it can be regressive aswell. Giving irrelevant, biased data can be counter productive, and make a model less accurate
+when feeding a model with training data, it can be regressive aswell. Giving **irrelevant, biased data can be counter productive, and make a model less accurate**
 
 - data optimisation and preparition to use on a model
 - column called vector. multiple vectors is matrix
