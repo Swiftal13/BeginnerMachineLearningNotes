@@ -19,4 +19,4 @@ when feeding a model with training data, it can be regressive aswell. Giving irr
 the advanced vs basic toolbox
 tensorflow, keras, scitlearn
 lots of training data
-linear pooaa
+linear pool
