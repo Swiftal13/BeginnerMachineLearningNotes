@@ -1,5 +1,5 @@
 # Classification
-Classification, taking instances (inputs) and mapping it to a discrete label
+Classification, **taking instances (inputs) and mapping it to a discrete label**
 
 **Instances** are inputted data values, discrete<br>
 **Concept** is the function that maps the inputs to outputs<br>
