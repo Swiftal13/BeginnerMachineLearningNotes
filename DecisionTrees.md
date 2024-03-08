@@ -7,7 +7,7 @@ Two fundamental practices in supervised learning
 - **Classification** is a supervised machine learning method where the model tries to predict the correct label of a given input data.
 
 ## Decision tree
-take in instances, produce binary outputs to decide
+take in instances, produce binary outputs to decidep
 
 A decision tree is a tree like strucutre where each node represents an attribute or a question, and the eadges represent the possible values or answers<br>
 
